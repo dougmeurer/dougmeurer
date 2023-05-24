@@ -39,7 +39,7 @@
     <img height="40" src="https://i.imgur.com/gq6XrbN.png" alt="express"> &nbsp
     <br>
     <br>
-    <img height="40" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb"> &nbsp
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"> &nbsp
     <img height="40" src="https://seekvectorlogo.com/wp-content/uploads/2022/02/cloudinary-vector-logo-2022.png" alt="cloudinary"> &nbsp
     <br>
     <br>
