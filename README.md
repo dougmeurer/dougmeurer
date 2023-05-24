@@ -4,17 +4,18 @@
     </a>
 </p>
 
-<div style="display: inline_block">  
+<div style="display: inline_block"> 
+   <p aligh="center">
   <a href="https://github.com/dougmeurer">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dougmeurer&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougmeurer&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougmeurer&layout=compact&langs_count=7&theme=gotham"/></a>
   <br/>
     
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dougmeurer&theme=radical"/></a>
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dougmeurer&theme=radical"/></a> </p>
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+space!)](https://git.io/typing-svg)</p> -->
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
 
 <!--
 **dougmeurer/dougmeurer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
