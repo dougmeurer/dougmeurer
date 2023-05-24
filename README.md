@@ -40,10 +40,11 @@
     <br>
     <br>
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb"> &nbsp
-    <img height="40" src="https://seekvectorlogo.com/wp-content/uploads/2022/02/cloudinary-vector-logo-2022.png" alt="cloudinary">
+    <img height="40" src="https://seekvectorlogo.com/wp-content/uploads/2022/02/cloudinary-vector-logo-2022.png" alt="cloudinary"> &nbsp
     <br>
     <br>
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop"> &nbsp
+    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"> &nbsp
 </p>
     
 ## 📞 Contact me
@@ -56,21 +57,8 @@
   </a>
 </p>
 
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+space!)](https://git.io/typing-svg)</p> -->
+![Snake animation](https://github.com/dougmeurer/dougmeurer/blob/output/github-contribution-grid-snake.svg)
+
 
 <!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
 
-<!--
-**dougmeurer/dougmeurer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
