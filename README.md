@@ -14,7 +14,6 @@
 - ✨ "Stay Hungry. Stay Foolish."
 <!-- - 🤓 Meticulous, interested and always looking to learn and `improve my knowledge`. -->
 <!-- - 📰 If you want to know more about me, feel free to access my [`personal portfolio`](https://). -->
-<br></br>
 <div style="display: inline_block"> 
   <p aligh="center">
    <a href="https://github.com/dougmeurer">
@@ -23,6 +22,7 @@
 <!--   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dougmeurer&theme=radical"/></a>  -->
   </p>
 </div>
+
 ## 🛠️ Tech Stack
 <p align="center">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html"> &nbsp
