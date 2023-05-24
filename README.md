@@ -27,6 +27,7 @@
 <p align="center">
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html"> &nbsp
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css"> &nbsp
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap"> &nbsp
     <br>
     <br>
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript"> &nbsp
@@ -36,7 +37,8 @@
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs"> &nbsp
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/npm.svg" alt="nmp"> &nbsp
     <img height="40" src="https://i.imgur.com/gq6XrbN.png" alt="express"> &nbsp
-    <img height="40" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb">
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb"> &nbsp
+    <img height="40" src="https://seekvectorlogo.com/wp-content/uploads/2022/02/cloudinary-vector-logo-2022.png" alt="cloudinary">
     <br>
     <br>
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop"> &nbsp
