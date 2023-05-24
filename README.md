@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I am Doug <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="waving hand"></h1>
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00B4FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%92%A1;Systems+Analysis+Student+@+FACAP+%F0%9F%96%A5%EF%B8%8F;Welcome+To+My+Space+%F0%9F%8E%89" alt="Typing SVG" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00B4FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%92%A1;Systems+Analysis+Student+%F0%9F%96%A5%EF%B8%8F;Welcome+To+My+Space+%F0%9F%8E%89" alt="Typing SVG" />
     </a>
 </p>
 
