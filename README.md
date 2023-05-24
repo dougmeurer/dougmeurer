@@ -1,6 +1,10 @@
 <h1 align="center">Hi , I am Doug <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="waving hand"></h1>
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00B4FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%92%A1;AAS CSI+Student+@+FACAP+%F0%9F%96%A5%EF%B8%8F;Welcome+To+My+Space+%F0%9F%8E%89" alt="Typing SVG" />
+    </a>
+</p>
 
-<p aligh="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+space!)](https://git.io/typing-svg)</p>
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+space!)](https://git.io/typing-svg)</p> -->
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
