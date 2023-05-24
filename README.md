@@ -4,6 +4,16 @@
     </a>
 </p>
 
+## 💁‍♂️ About me
+- 🚢 Former `Seafarer` @ Royal Caribbean International.
+- 🏫 A `Student` of Systems Analysis @ FACAP.
+- 👨‍💻 Ironhack Alumni in Web Development `Bootcamp`.
+- 😍 A `90's` kid forever in love with `Tech`, `Music` & `Travel`.
+- 🤔 I’m currently open for a new `job opportunity`.
+- ✨ "Stay Hungry. Stay Foolish."
+<!-- - 🤓 Meticulous, interested and always looking to learn and `improve my knowledge`. -->
+<!-- - 📰 If you want to know more about me, feel free to access my [`personal portfolio`](https://). -->
+
 <div style="display: inline_block"> 
    <p aligh="center">
   <a href="https://github.com/dougmeurer">
