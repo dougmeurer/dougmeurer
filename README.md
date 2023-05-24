@@ -20,11 +20,26 @@
    <a href="https://github.com/dougmeurer">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dougmeurer&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougmeurer&layout=compact&langs_count=7&theme=gotham"/></a>
-    
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dougmeurer&theme=radical"/></a> 
+<!--   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dougmeurer&theme=radical"/></a>  -->
   </p>
 </div>
-    
+## 🛠️ Tech Stack
+<p align="center">
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html"> &nbsp
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css"> &nbsp
+    <br>
+    <br>
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript"> &nbsp
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react"> &nbsp
+    <br>
+    <br>
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs"> &nbsp
+    <img height="40" src="https://i.imgur.com/gq6XrbN.png" alt="express"> &nbsp
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb">
+    <br>
+    <br>
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop"> &nbsp
+</p>
     
 ## 📞 Contact me
 <p align="center">
