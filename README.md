@@ -30,6 +30,7 @@
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap"> &nbsp
     <br>
     <br>
+    <img height="40" src="https://worldvectorlogo.com/logo/c--4.svg" alt="C#"> &nbsp
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript"> &nbsp
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react"> &nbsp
     <br>
