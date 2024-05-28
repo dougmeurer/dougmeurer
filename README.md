@@ -10,7 +10,7 @@
 - 👨‍💻 Ironhack Alumni - Web Development `Bootcamp`.
 - 😍 A `90's` kid forever in love with `Tech`, `Music` & `Travel`.
 - 🤔 Currently open for `New Opportunities`.
-- ⚡ Curiosities: I have Visited over `250 Cities` in `71 Countries` & `5 Continents`.
+- ⚡ Curiosities: I have Visited over `250 Cities` in `72 Countries` & `5 Continents`.
 - ✨ "Stay Hungry. Stay Foolish."
 <!-- - 🤓 Meticulous, interested and always looking to learn and `improve my knowledge`. -->
 <!-- - 📰 If you want to know more about me, feel free to access my [`personal portfolio`](https://). -->
