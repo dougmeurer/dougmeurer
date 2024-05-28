@@ -34,6 +34,7 @@
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python"> &nbsp
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="Csharp"> &nbsp
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react"> &nbsp
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/dotnet.svg" alt="dotnet"> &nbsp
     <br>
     <br>
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs"> &nbsp
