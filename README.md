@@ -6,11 +6,11 @@
 
 ## 💁‍♂️ About me
 - 🚢 Former `Seafarer` @ Royal Caribbean International.
-- 🏫 Currently `Studying` Systems Analysis @ FACAP.
-- 👨‍💻 Ironhack Alumni - Web Development `Bootcamp`.
+- 🏫 Computer Information Systems A.A.S. `Graduate` @ FACAP (Faculdade Católica Paulista).
+- 👨‍💻 Ironhack Graduate - Web Development `Bootcamp`.
 - 😍 A `90's` kid forever in love with `Tech`, `Music` & `Travel`.
-- ⚡ Curiosities: I have visited over `250 Cities` in `74 Countries` & `5 Continents`.
-- ✨ "Stay Hungry. Stay Foolish."
+- ⚡ Fun Facts: I've been to over `250 Cities` in `74 Countries` & `5 Continents`.
+<!-- ✨ "Stay Hungry. Stay Foolish."
 <!-- - 🤓 Meticulous, interested and always looking to learn and `improve my knowledge`. -->
 <!-- - 📰 If you want to know more about me, feel free to access my [`personal portfolio`](https://). -->
 <!-- <div style="display: inline_block"> 
@@ -29,23 +29,25 @@
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap"> &nbsp
     <br>
     <br>
-    <img height="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript"> &nbsp
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/javascript-r.svg" alt="javascript"> &nbsp
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python"> &nbsp
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="Csharp"> &nbsp
-    <img height="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react"> &nbsp
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/dotnet.svg" alt="dotnet"> &nbsp
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/2b14b1ce-c5c2-444d-9029-8500b5b378be/react-2.svg" alt="react"> &nbsp
     <br>
     <br>
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs"> &nbsp
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express"> &nbsp
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/npm.svg" alt="nmp"> &nbsp
-    <img height="40" src="https://i.imgur.com/gq6XrbN.png" alt="express"> &nbsp
     <br>
     <br>
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"> &nbsp
-    <img height="40" src="https://seekvectorlogo.com/wp-content/uploads/2022/02/cloudinary-vector-logo-2022.png" alt="cloudinary"> &nbsp
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="mongodb"> &nbsp
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/cloudinary-2.svg" alt="cloudinary"> &nbsp
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git"> &nbsp
     <br>
     <br>
-    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"> &nbsp
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/d9a2c723-814b-41f6-9f50-0edb1cdacb33/azure-devops-2.svg" alt="azudeDevOps"> &nbsp
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/professional-scrum-developer-i.svg" alt="scrum">
 </p>
     
 ## 📞 Contact me
