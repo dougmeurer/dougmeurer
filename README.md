@@ -16,9 +16,9 @@
 <!-- <div style="display: inline_block"> 
   <p align="center">
    <a align="center" href="https://github.com/dougmeurer">
-    <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dougmeurer&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/> -->
+    <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dougmeurer&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/> 
    < <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougmeurer&layout=compact&langs_count=7&theme=gotham"/></a>
-<!--   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dougmeurer&theme=radical"/></a>  -->
+<!--   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dougmeurer&theme=radical"/></a>  
   </p>
 </div> -->
 
